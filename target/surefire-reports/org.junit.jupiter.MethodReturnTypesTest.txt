@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: org.junit.jupiter.MethodReturnTypesTest
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.056 s <<< FAILURE! - in org.junit.jupiter.MethodReturnTypesTest
+testVariable{Object}  Time elapsed: 0.009 s  <<< ERROR!
+org.junit.jupiter.api.extension.ParameterResolutionException: No ParameterResolver registered for parameter [java.lang.Object arg0] in method [void org.junit.jupiter.MethodReturnTypesTest.testVariable(java.lang.Object)].
+

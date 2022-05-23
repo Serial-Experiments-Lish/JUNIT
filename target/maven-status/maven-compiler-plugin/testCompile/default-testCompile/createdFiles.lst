@@ -1,0 +1,4 @@
+org\junit\jupiter\AppBookTest.class
+org\junit\jupiter\MethodReturnTypesTest.class
+org\junit\jupiter\DivisionTest.class
+org\junit\jupiter\HiFriendTest.class
